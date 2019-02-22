@@ -1,0 +1,15 @@
+Step Hill ; 4.5 ; Every 30 sec add 1 gear //4 increases (Standing for final increase) //Begin at FR | RPM: 70-90
+
+20/20/20; 3.0 ; Begin 2-4 above flat road | RPM: 60 – 80 //20 seconds seated -> 20 standing -> 20 standing tunnel //3 reps
+
+Sprint Pyramid; 5.5 ; 1-4 above FR | RPM: 90-110 //30 sec sprint -> 15 sec rest //20 sec sprint -> 15 sec rest //15 sec sprint -> rest 1 min //REPEAT
+
+Race Loop ; 10.0 ; Gears: 2 – 4 above FR | RPM: 85 – 90     {2:00} //Add 1 to 2 gears | RPM: 65 – 80              {1:00} //Stand  hold gear | RPM: 60-70                 {0:30} //Surge  add 5 to 10 RPM		                  {0:30} //Sit  hold gear		       		       {0:30} //Rest [1:00] //REPEAT
+
+AMRAP ; 7.0 ; 2x3 minute intervals //2-5 gears above flat road, tracking trip //	.1 in tunnel //	.2 seated //	.3 seated tunnel
+
+Podium Hill ; 10.0 ; Increase gear every 30 seconds //6 Rounds: (3 patterns up, 3 down) //	+1, 2, 1 -> +2, 3, 2 -> +3, 4, 3 <- //	Add up to 3/4 gears //Cue proper form and if stroke gets choppy stand/reduce gear //If RPM < 55: reduce gear //Begin at FR | RPM:  start 70-90
+
+Quick Adds ; 5.5 ; Start at FR – 1 above //Pick RPM between 90 – 105 //Add 1 gear every 15 seconds -> 3 total//	Hold pace //30 second rest -> 4 reps
+
+AMRAP(rep based) ; 7.0 ; 3 reps x 2 sets //2-5 gears above flat road //tracking trip -- each position twice //	.1 in tunnel //	.2 seated //	.3 seated tunnel //Recover [1:00]

@@ -1,0 +1,29 @@
+Step Hill ; 4 ; Every 30 sec add 1 gear //4 increases (Standing for final increase) //Begin at FR | RPM: 70-90
+
+RPM Pyramid ; 4.5 ; Build from 85 to 100 RPM (changing 5 every 30 seconds) //Bottom at 80  back to 85 RPM
+
+20/20/20; 3.0 ; Begin 2-4 above flat road | RPM: 60 – 80 //20 seconds seated -> 20 standing -> 20 standing tunnel //3 reps
+
+Sprint Pyramid; 4 ; 1-4 above FR | RPM: 90-110 //30 sec sprint -> 20 sec rest //20 sec sprint -> 20 sec rest //15 sec sprint -> rest 30 sec //REPEAT
+
+Race Loop ; 10.0 ; Gears: 2 – 4 above FR | RPM: 85 – 90     {2:00} //Add 1 to 2 gears | RPM: 65 – 80              {1:00} //Stand  hold gear | RPM: 60-70                 {0:30} //Surge  add 5 to 10 RPM		                  {0:30} //Sit  hold gear		       		       {0:30} //Rest [1:00] //REPEAT
+
+AMRAP ; 7.0 ; 2x3 minute intervals //2-5 gears above flat road, tracking trip //	.1 in tunnel //	.2 seated //	.3 seated tunnel
+
+Triple Hill ; 7.0 ; Adding 1 gear every 30 seconds //3 times through (+3, +4, +5) //FR-3 above  | RPM: (start) 75-90 //Iterations: //+3 from base -> slides //+4 from base -> figure 8 //+5 from base -> jumps
+
+Podium Hill ; 10.0 ; Increase gear every 30 seconds //6 Rounds: (3 patterns up, 3 down) //	+1, 2, 1 -> +2, 3, 2 -> +3, 4, 3 <- //	Add up to 3/4 gears //Cue proper form and if stroke gets choppy stand/reduce gear //If RPM < 55: reduce gear //Begin at FR | RPM:  start 70-80
+
+Quick Adds ; 5.5 ; Start at FR – 1 above //Pick RPM between 90 – 105 //Add 1 gear every 15 seconds -> 3 total//	Hold pace //30 second rest -> 4 reps
+
+SSS (Stand, Sit, surge) ; 6.0 ; 3-5 above FR | RPM: 65 +  //30 sec stand //30 sec seated //Remove 2 gears (30 sec) //RPM: 90-110 surge (30 sec) //3 REPS — no rest between reps
+
+AMGAP ; 7.0 ; Start at FR | RPM: 60-95 //3 minute efforts //	Add one gear every 0.2 trip increase //rest 1 min //REPEAT
+
++2 -1 hill ; 7.0 ; 1-3 above FR (mindful of max at +5) | RPM start: 70 – 80 //30 seconds -> +2 gears //30seconds -> - 1 gear // //top -> + 5 gears -> 30 seconds // //30 seconds -> -2 gear //30 seconds -> + 1 gear
+
+Surges ; 1000 ; 1-2 above FR | RPM 70-90 //Cues
+
+Quick Adds Hill; 5.5 ; 2-3 above FR | RPM 70 - 95 //add 1 gear every 15 seconds -> 3 total //30 second rest -> 4 reps
+
+IDK Hill; 1000 ; Start at FR //+3 -1 //	Top out at 7 above FR //	Jumps //	TABATA //	Repeat 3 Times
