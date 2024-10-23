@@ -162,9 +162,10 @@ public class Generator
 		// hold the string to be written, and an array of directions.
 		String fileString = "";
 		String[] d;
+		String home = System.getProperty("user.home");
 		
 		try{
-			fileOut = new PrintWriter(new File("/Users/robertrossmiller/Desktop/SpinWorkout.txt"));
+			fileOut = new PrintWriter(new File(home + "/Desktop/SpinWorkout.txt"));
 			
 			//Spin class intro
 			fileString = "Display explanation\n	RPM		Gear"
